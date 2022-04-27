@@ -2,6 +2,7 @@
   "expo": {
     "name": "uber-full-stack-clone",
     "slug": "uber-full-stack-clone",
+    "id": "5abb4eca-0a5f-4d91-ad35-9dd2749f1b44",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
